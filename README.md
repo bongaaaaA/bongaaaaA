@@ -18,13 +18,27 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 ## 🛠️ Technical Skills
 
 ### 🤖 AI / ML / DL
-<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ### 🧠 NLP & LLMs
 <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
 <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white" />
+
+## 🛠️ Tools & Technologies
+
+### 🧰 Backend & DevOps
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+---
+
 
 ### 🧰 Other Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -55,7 +69,7 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 
 | Email | LinkedIn | Twitter | Portfolio |
 |-------|----------|---------|-----------|
-| 📧 khaledtelbahnasy@gmail.com | 🔗 https://linkedin.com/in/yourlink | 🐦 @K_Elbhnasy | 🌐 https://elbhnasy.github.io |
+| 📧 abdelrahmanaboelnaga658@gmail.com | 🔗 [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/abdelrahman-aboelnaga-a0bb1b234/) | [Kaggle](https://www.kaggle.com/abdelrahmanaboelnaga)
 
 ---
 
