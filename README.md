@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer|LLM+Expert;RAG+System|Voice+Agents;AI+Engineer+%26+Machine+Learning+Specialist" />
 </p>
 
-# Hi, I'm Khaled Tarek Elbhnasy 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+CV+%7C+NLP+%7C+LLMs+%7C+RAG+Systems" />
-</p>
 
 ## About Me
 As an **AI Engineer**, I specialize in:
