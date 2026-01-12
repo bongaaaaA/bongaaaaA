@@ -17,15 +17,16 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 
 ## 🛠️ Technical Skills
 
-### 🤖 AI / ML / DL
-<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+## 🧠 LLMs & NLP Frameworks
 
-### 🧠 NLP & LLMs
-<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge"/>
+
+
+### 🤖 AI & ML & DL Frameworks
+<img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ### 🧠 Machine Learning | Deep Learning
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/>
 
 ## 🛠️ Tools & Technologies
