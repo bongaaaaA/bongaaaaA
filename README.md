@@ -25,30 +25,16 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 ### 🤖 AI & ML & DL Frameworks
 <img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### 🧠 Machine Learning | Deep Learning
-<img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/>
-
 ## 🧠 AI Techniques & Specializations
 
 ### 🤖 Machine Learning
-<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unsupervised%20Learning-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Unsupervised%20Learning-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/>
 
 ### 🔥 Deep Learning
-<img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Autoencoders-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Autoencoders-16A34A?style=for-the-badge"/>
 
 ### 👁️ Computer Vision
-<img src="https://img.shields.io/badge/Image%20Classification-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Detection-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Segmentation-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Instance%20Segmentation-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medical%20Imaging-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Classification-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Object%20Detection-E11D48?style=for-the-badge"/> <img src="https://img.shields.io/badge/Semantic%20Segmentation-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Instance%20Segmentation-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Medical%20Imaging-7C3AED?style=for-the-badge"/>
 
 
 ## 🛠️ Tools & Technologies
