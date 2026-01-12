@@ -29,6 +29,28 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 <img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/>
 
+## 🧠 AI Techniques & Specializations
+
+### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-6366F1?style=for-the-badge"/>
+
+### 🔥 Deep Learning
+<img src="https://img.shields.io/badge/CNNs-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GANs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autoencoders-16A34A?style=for-the-badge"/>
+
+### 👁️ Computer Vision
+<img src="https://img.shields.io/badge/Image%20Classification-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Detection-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Segmentation-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instance%20Segmentation-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medical%20Imaging-7C3AED?style=for-the-badge"/>
+
+
 ## 🛠️ Tools & Technologies
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -42,10 +64,6 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 - ⭐ **RAG Search & LLM Apps**  
 *(Replace with your actual projects & links)*
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elbhnasy&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbhnasy&layout=compact&theme=dark" />
@@ -55,8 +73,8 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 
 ## 📫 Connect With Me
 
-| Email | LinkedIn | Twitter | Portfolio |
-|-------|----------|---------|-----------|
+| Email | LinkedIn | Kaggle |
+|-------|----------|---------|
 | 📧 abdelrahmanaboelnaga658@gmail.com | 🔗 [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/abdelrahman-aboelnaga-a0bb1b234/) | [Kaggle](https://www.kaggle.com/abdelrahmanaboelnaga)
 
 ---
