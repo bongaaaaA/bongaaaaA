@@ -54,10 +54,6 @@ I build **scalable AI solutions** and passion­ately solve real-world problems.
 - ⭐ **RAG Search & LLM Apps**  
 *(Replace with your actual projects & links)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elbhnasy&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbhnasy&layout=compact&theme=dark" />
-</p>
 
 ---
 
